@@ -10,6 +10,7 @@ public class Grup14Sayim {
         grupUyeleri.add("Ulker Mammadova");
         grupUyeleri.add("Sema Nur arslan");
         grupUyeleri.add("Yusufcan Hergül");
+        grupUyeleri.add("Timur Demirörs");
 
 
         for (String s : grupUyeleri) {
