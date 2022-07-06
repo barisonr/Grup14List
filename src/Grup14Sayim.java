@@ -11,7 +11,7 @@ public class Grup14Sayim {
         grupUyeleri.add("Sema Nur arslan");
         grupUyeleri.add("Yusufcan Hergül");
         grupUyeleri.add("Timur Demirörs");
-
+        grupUyeleri.add("Gökan Kınataş");
 
         for (String s : grupUyeleri) {
             System.out.println(s);
