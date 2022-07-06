@@ -13,6 +13,8 @@ public class Grup14Sayim {
         grupUyeleri.add("Timur Demirörs");
         grupUyeleri.add("Gökan Kınataş");
 
+        // deneme deneme
+
         for (String s : grupUyeleri) {
             System.out.println(s);
         }
